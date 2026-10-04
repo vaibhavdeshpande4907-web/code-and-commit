@@ -8,3 +8,4 @@ f = c-d
 print(f)
 g = a*b
 print(g)
+print("hello my dear")
